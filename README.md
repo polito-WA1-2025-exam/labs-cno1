@@ -1,4 +1,4 @@
-# Group "GROUP NAME"
+# Group "cn no1"
 
 ## Members
 - s338989 JUNPENG LI
