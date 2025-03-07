@@ -4,7 +4,4 @@ class User{
         this.name = name;
         this.password = password;
     }
-    print_info(){
-        console.log(`[User] ${this.id} ${this.name}`);
-    }
 }
